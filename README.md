@@ -1,8 +1,4 @@
-# applied-data-science
-Weighting %: 	20	Submission deadline (for students): 	7/11/24 at 12pm (Midday)
-Authorship:	Individual	Target date for returning marked coursework: 	29/11/24
-Tutor setting the work: 	Dr. William Cooper	Number of hours you are expected to work on this assignment: 	10
-This Assignment assesses the following module Learning Outcomes (from Definitive Module Document):
+
 
 1. Be able to maintain and develop code using the git version control system.
 
